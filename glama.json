@@ -1,17 +1,11 @@
 {
   "name": "HederaOracle",
-  "description": "9 MCP tools for DeFi risk and compliance intelligence on Hedera",
-  "version": "1.0.0",
+  "description": "Hedera intelligence for AI agents — HTS tokens, key risk scoring, accounts, DeFi data via MCP",
+  "repository": "https://github.com/ToolOracle/hederaoracle",
+  "endpoint": "https://tooloracle.io/hedera/mcp/",
+  "health": "https://tooloracle.io/hedera/health",
   "tools": 9,
-  "category": "blockchain",
-  "tags": [
-    "hedera",
-    "defi",
-    "risk",
-    "compliance",
-    "mcp"
-  ],
-  "author": "FeedOracle Technologies",
   "license": "MIT",
-  "homepage": "https://tooloracle.io"
+  "author": "FeedOracle Technologies",
+  "tags": ["hedera", "mcp", "ai-agent", "tooloracle"]
 }
