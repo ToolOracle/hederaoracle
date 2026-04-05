@@ -1,0 +1,5 @@
+name: HederaOracle
+description: Hedera network intelligence — 9 tools
+endpoint: https://tooloracle.io/hbar/mcp/
+transport: streamable-http
+license: MIT
